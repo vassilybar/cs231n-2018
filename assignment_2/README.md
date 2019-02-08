@@ -38,5 +38,3 @@ In the IPython Notebook ConvolutionalNetworks.ipynb you will implement several n
 For this last part, you will be working in either TensorFlow or PyTorch, two popular and powerful deep learning frameworks. **You only need to complete ONE of these two notebooks.** You do NOT need to do both, and we will _not_ be awarding extra credit to those who do. 
 
 Open up either `PyTorch.ipynb` or `TensorFlow.ipynb`. There, you will learn how the framework works, culminating in training a  convolutional network of your own design on CIFAR-10 to get the best performance you can.
-
-**NOTE: Once again, at this time, the PyTorch and TensorFlow notebooks are not finalized. We will update this page with a zip file containing the two notebooks as soon as they are completed!**  
